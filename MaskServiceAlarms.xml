@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
 	<Name>MaskServiceAlarms</Name>
-	<Description></Description>
+	<Description>MaskServiceAlarms_1.0.0.1</Description>
 	<Type>Automation</Type>
 	<Author>SKYLINE2\HAN</Author>
 	<CheckSets>FALSE</CheckSets>
